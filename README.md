@@ -1,1 +1,2 @@
 # Grocery-Store-Management
+The Grocery Store Management System is a database-driven project developed using MySQL to efficiently manage and analyze grocery store operations. The project includes a well-structured relational database with tables for customers, products, suppliers, employees, orders, and order details. Using SQL queries, the system analyzes sales performance, customer behavior, product demand, and supplier contribution. The project helps generate meaningful business insights that support better inventory management, sales planning, and decision-making.
